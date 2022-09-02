@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirst-Ornek1", "DBFirst-Ornek1\DBFirst-Ornek1.csproj", "{A9F8F70B-6420-4B86-81FB-57A366F39960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-DBFIRST-Categories", "EF-DBFIRST-Categories\EF-DBFIRST-Categories.csproj", "{7B7515B0-959C-4803-8EC3-635DC8DAB355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F8F70B-6420-4B86-81FB-57A366F39960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F8F70B-6420-4B86-81FB-57A366F39960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F8F70B-6420-4B86-81FB-57A366F39960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F8F70B-6420-4B86-81FB-57A366F39960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7515B0-959C-4803-8EC3-635DC8DAB355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7515B0-959C-4803-8EC3-635DC8DAB355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7515B0-959C-4803-8EC3-635DC8DAB355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7515B0-959C-4803-8EC3-635DC8DAB355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C5E36D-476B-4CD7-B204-A6F545C54563}
+	EndGlobalSection
+EndGlobal
